@@ -4,3 +4,6 @@
 [submodule "pserver/server"]
 	path = pserver/server
 	url = https://github.com/seabbs/personal-server.git
+[submodule "easy-pdf"]
+	path = easy-pdf
+	url = https://github.com/jaysnm/django-easy-pdf-demo-app.git
