@@ -1,0 +1,6 @@
+[submodule "rpackage"]
+	path = rpackage
+	url = https://github.com/jaysnm/test.r.package.git
+[submodule "pserver/server"]
+	path = pserver/server
+	url = https://github.com/seabbs/personal-server.git
